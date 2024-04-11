@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395485601218",
+    "project_id": "ainzel-website-v2-td5vrt",
+    "storage_bucket": "ainzel-website-v2-td5vrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395485601218:android:6ac9354994e7a5830bca5b",
+        "android_client_info": {
+          "package_name": "com.mycompany.ainzelwebsitev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL0ORRHvK1YHwIoI8SiogibFrmYiYwwx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
